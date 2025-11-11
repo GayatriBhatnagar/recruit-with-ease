@@ -1,4 +1,4 @@
-# Job Applicant Search (Backend)
+# RecruitWithEase (Backend)
 
 A backend service for managing and searching job applicants.  
 Built with **Spring Boot (Java 17)** and **MYSQL** to deliver a scalable and enterprise-ready solution.  
